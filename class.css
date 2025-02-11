@@ -1,0 +1,14 @@
+.paraclete{
+    color: lightblue;
+    font-size: larger;
+}
+p.center{
+    text-align: justify;
+    color: blueviolet
+    ;
+}
+h1.center{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
