@@ -1,0 +1,29 @@
+body{
+    background: url("dee.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed
+    
+}
+
+#firstcontainer{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+#secondcontainer{
+    font-size:xx-large;
+    font-weight:bolder;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#041b30;
+    opacity: 0.8;
+    padding: 5px 50px;
+    border-radius: 5px;
+    margin: 6px;
+    
+}
+#thirdcontainer{
+    color: rgb(193, 215, 231);
+}

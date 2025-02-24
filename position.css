@@ -1,0 +1,33 @@
+#container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+   
+
+}
+body{
+    background: url("DAA.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+#childcontainer{
+    padding: 4rem 6rem ;
+    background-color: rgba(54, 77, 95, 0.646);
+    color: #ffffff;
+    border-radius:5px ;
+}
+#sub{
+    padding: 0.8rem 4rem;
+    margin-left: 2rem;
+    background-color: rgb(44, 61, 94);
+    color: aliceblue;
+    border-radius:5px ;
+}
+#sub:hover{
+    background-color: rgb(38, 76, 108);
+    color: rgb(212, 137, 24);
+}
